@@ -1,2 +1,2 @@
-# QM2
+# QM
 QM2 basc0005 
